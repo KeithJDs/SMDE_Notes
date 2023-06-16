@@ -1,0 +1,75 @@
+5 point distribution -> min, max, Q1, Q3, mean = Q2
+median and mean is close then symmetrical distribution
+mean is more than median
+csv1 separator is ,
+csz2 separatoris ;
+
+coefiecient of variation = % of variation from the mean
+
+r14 = r13 + r6
+r14 = r12 - r5 +r6
+r14 = r11 + r4 - r5 + r6
+r14 = r10 + r3 + r4 -r5 + r6
+r14 = r1 * r2 +r3 + r4 - r5 + r6
+
+r14 = r1 * r2 + r3 + r4 - r5 + r6
+
+r1 * r2   r3 + r6  
+		+ r4 
+		  - r5
+
+t1 = r1 * r2
+t2 = r3 + r6
+t3 = r5 + r6
+t4 = t1 + t2
+
+parameters alive at the entry
+the return value alive at the exit
+every risc passes parameters
+x86
+BB1 and bb4 dominates bb7 as they are used to recah bb777
+
+bb1= 1,e
+bb2= 2,1,e
+bb3= 3,1,e
+bb4= 4,1,e(bb1,bb2,bb3,bb7)intersection are the ones in common
+bb5= 5,4,1,e
+bb6= 6,4,1,e
+bb7= 7,4,1,e
+exit= 7,4,1,e
+
+AMD Am386DX/DXL: 32-bit processor, clock speeds up to 40 MHz, launched in 1991
+AMD Am486DX: 32-bit processor, clock speeds up to 66 MHz, launched in 1993
+AMD K5: 32-bit processor, clock speeds up to 133 MHz, launched in 1996
+AMD K6: 32-bit processor, clock speeds up to 300 MHz, launched in 1997
+AMD K6-2: 32-bit processor, clock speeds up to 550 MHz, launched in 1998
+AMD K6-III: 32-bit processor, clock speeds up to 450 MHz, launched in 1999
+AMD Duron: 32-bit processor, clock speeds up to 1.8 GHz, launched in 2000 (technically in the 20th century since it was released in 2000 before the year 2001)
+AMD Athlon: 32-bit processor, clock speeds up to 1.4 GHz, launched in 1999
+AMD Athlon XP: 32-bit processor, clock speeds up to 2.2 GHz, launched in 2001
+AMD Athlon 64: 64-bit processor, clock speeds up to 2.4 GHz, launched in 2003 (technically in the 21st century, but included for completeness)
+
+
+
+r14 = t4 - t3
+
+
+
+
+1) P(X<=2)
+P(0)+P(1)+P(2)
+or
+1-P(X>=3)
+Binomial--- Binom(1000,p=6/10000=0.0006)
+dbinom,qbinom,pbinom
+
+2) poisson
+P(X>=2)
+1-P(X<=1)
+poisson(lambda) lambda=mean = 300*1/1200 = 1/4
+
+3) find the probabilit and then the number of days
+
+4) 1/lambda=0.0003
+5) %95 P(X>t)=0.95. find t
+8-> 1/lambda=1/8
